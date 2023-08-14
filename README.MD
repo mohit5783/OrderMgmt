@@ -1,4 +1,4 @@
-# Order Management (Setel)
+# Order Management
 <img src="https://i.imgur.com/LiFVgat.png" alt="Logo" />
   <p>
   <i>Build micro-services written with any modern NodeJS Framework Typescript-based framework <b>NestJS.</b> Each of the services should have own purpose of existing and single responsibility</i>
